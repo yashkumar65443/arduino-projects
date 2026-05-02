@@ -89,4 +89,4 @@ Once uploaded, your LED will **endlessly cycle** through the four colors, each h
 
 ## 📜 License
 
-MIT — do whatever you like with it. Light up the world! 🌍✨
+MIT — do whatever you like with it. Light up the world! 🌍✨ 
